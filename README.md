@@ -1,5 +1,5 @@
-## Hi kittys 🏖️
-Meu nome é marcela 🦋
+## Hi kittys 🐱
+Meu nome é marcela a💘
 
 -estou estudando no Alura
 -estou me desenvolvendo na línguagem JavaScript
