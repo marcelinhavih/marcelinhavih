@@ -1,6 +1,5 @@
 ## Hi Barbies 🏖️
-
-~Meu nome é marcela 🦋~
+Meu nome é marcela 🦋
 
 -estou estudando no Alura
 -estou me desenvolvendo na línguagem JavaScript
